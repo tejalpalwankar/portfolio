@@ -19,6 +19,7 @@ const classes = {
 
 const Header = ({ metadata = {} }) => {
   const resume = get(metadata, 'author', false);
+  const medium = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
   const blogEnabled = get(metadata, 'blogEnabled', false);
@@ -46,6 +47,16 @@ const Header = ({ metadata = {} }) => {
               </a>
             </li>
           )}
+          {medium && (
+            <li className={classes.item}>
+              <a
+                className={classes.link}
+                href={`https://kushalkothari285.medium.com/`}
+              >
+                medium
+              </a>
+            </li>
+          )}          
           {github && (
             <li className={classes.item}>
               <a className={classes.link} href={github}>
