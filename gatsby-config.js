@@ -12,7 +12,7 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/kushal-kothari-766155171/`,
     projects: [
       {
-        name: 'ChromeExtensionKit',
+        name: 'Yggdrasil',
         description:
           'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
         link: 'https://chromeextensionkit.com/?ref=portfolio',

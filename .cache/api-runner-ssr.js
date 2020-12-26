@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/home/kushal/Desktop/Portfolio/githubportfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/kushal/Desktop/Portfolio/githubportfolio/node_modules/gatsby-plugin-feed/gatsby-ssr'),
+      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/kushal/Desktop/Portfolio/githubportfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-54210715-4","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
-      plugin: require('/home/kushal/Desktop/Portfolio/githubportfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"ryan-fitzgerald","short_name":"rfitz","start_url":"/","background_color":"#3486eb","theme_color":"#3486eb","display":"minimal-ui","icon":"src/images/icon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"09015564a48c8f17ac7f5114860062a1"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
