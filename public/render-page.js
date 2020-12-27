@@ -109,6 +109,17 @@ var plugins = [{
     "plugins": []
   }
 }, {
+  plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-google-analytics/gatsby-ssr */ "./node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js"),
+  options: {
+    "plugins": [],
+    "trackingId": "G-XKB1PRKH9H",
+    "head": false,
+    "anonymize": false,
+    "respectDNT": false,
+    "exclude": [],
+    "pageTransitionDelay": 0
+  }
+}, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),
   options: {
     "plugins": []

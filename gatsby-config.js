@@ -6,7 +6,9 @@ module.exports = {
     title: `Kushal Kothari`,
     description: `Former Google Summer Of Code Intern with Erlang Ecosystem Foundation.`,
     about: `My interests include the development of free & open source software, computer security, hardening of software, firmware & hardware, cryptography, privacy enhancing technologies, network protocols, distributed systems, software architecture, and programming languages. I particularly enjoy building highly distributed systems using functional programming languages, and low-level systems programming.I am not particularly good at keeping this website up-to-date, but you should be able to find information on how to contact me.
-    I'm a motivated full-stack engineer who has experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.`,
+    I'm a motivated full-stack engineer who has experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.
+    
+    I like building new stuff and work with other people – nothing really interesting is ever built alone :)  `,
     author: `kushal-kothari`,
     github: `https://github.com/Kushal-kothari`,
     linkedin: `https://www.linkedin.com/in/kushal-kothari-766155171/`,
@@ -100,6 +102,15 @@ module.exports = {
     ],
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "G-XKB1PRKH9H",
+        head:true,
+        anonymize:true,
+      },
+    },       
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -108,6 +119,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+ 
     {
       resolve: `gatsby-source-filesystem`,
       options: {
