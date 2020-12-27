@@ -14,16 +14,15 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/kushal-kothari-766155171/`,
     projects: [
       {
-        name: 'Yggdrasil',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=portfolio',
+        name: 'Chat Server and Client',
+        description:'Instant messengers have become a daily part of our life. We cannot imagine a life without Whatsapp, Telegram, Hike, etc. I was always curious about their working, so I spent some time and learnt about their theory of implementation. Equipped with the right knowledge I have created a very basic implementation of instant messengers. Though this is very basic, probably it might seem like app of MS-DOS era. But the functionality present in it is very similar to the current IM app, it can connect to a client through a server and send messages to other client.',
+        link: 'https://github.com/Kushal-kothari/Chat-server-and-Client',
       },
       {
-        name: 'GamePressKit',
+        name: 'Pathfinder-visualizer',
         description:
-          'All-in-one tool to build and manage press kits for games with no code required',
-        link: 'https://gamepresskit.com/',
+          'Pathfinding visualizer algorithm Program to visualize working of BFS and DFS and how they explore nodes. Made using Stanford University libraries in QT Creator.',
+        link: 'https://github.com/Kushal-kothari/Pathfinder_visualizer',
       },
       {
         name: 'Pivalink',
@@ -38,10 +37,10 @@ module.exports = {
         link: 'https://coursefacts.com/',
       },
       {
-        name: 'Dev Blog',
+        name: 'Blog App in Django',
         description:
-          'An open-source and minimal personal blog template for developers built with Gatsby and React',
-        link: 'hhttps://github.com/RyanFitzgerald/devblog',
+          'A reusable Django app for managing news/blog entries in different languages.Comes with a django-cms apphook and has been prepared using Django 1.5.1 and django-cms 2.4.1. From version 2.0 onwards it is tested and developed further on Django 1.9 and django-cms 3.',
+        link: 'https://github.com/Kushal-kothari/BLOGGING-APP',
       },
       {
         name: 'Dev Portfolio',
