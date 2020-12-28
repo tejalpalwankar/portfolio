@@ -5,9 +5,8 @@ module.exports = {
     name: 'Kushal Kothari',
     title: `Kushal Kothari`,
     description: `Former Google Summer Of Code Intern with Erlang Ecosystem Foundation.`,
-    about: `My interests include the development of free & open source software, computer security, hardening of software, firmware & hardware, cryptography, privacy enhancing technologies, network protocols, distributed systems, software architecture, and programming languages. I particularly enjoy building highly distributed systems using functional programming languages, and low-level systems programming.I am not particularly good at keeping this website up-to-date, but you should be able to find information on how to contact me.
-    I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.
-    I love building new stuff and work with other people – nothing really interesting is ever built alone :) I also used to love dogs until I discovered cats because the smallest feline is a masterpiece. `,
+    about: `  I’m an Open-Source enthusiast pursuing my Bachelors in Computer Science & Engineering . I truly find myself very fortunate to working with some really smart people out there in tech and Open source domain. My interests include the development of free & open source software, computer security, cryptography, network protocols, distributed systems, software architecture, and programming languages. I particularly enjoy building highly distributed systems using functional programming languages, and low-level systems programming.I am not particularly good at keeping this website up-to-date, but you should be able to find information on how to contact me.
+    I love learning and building new stuff and work with other people as nothing really interesting is ever built alone :) When I am not in front of my laptop ,you'll find me playing football or reading books.I love to read and always have.Fiction being my most favourite genre,I also recently started writing blogs on some of my most treasured books on Medium.I also used to love dogs until I discovered cats because the smallest feline is a masterpiece. `,
     author: `kushal-kothari`,
     github: `https://github.com/Kushal-kothari`,
     linkedin: `https://www.linkedin.com/in/kushal-kothari-766155171/`,
