@@ -6,7 +6,7 @@ module.exports = {
     title: `Kushal Kothari`,
     description: `Former Google Summer Of Code Intern with Erlang Ecosystem Foundation.`,
     about: `  I’m an Open-Source enthusiast pursuing my Bachelors in Computer Science & Engineering . I truly find myself very fortunate to working with some really smart people out there in tech and Open source domain. My interests include the development of free & open source software, computer security, cryptography, network protocols, distributed systems, software architecture, and programming languages. I particularly enjoy building highly distributed systems using functional programming languages, and low-level systems programming.I am not particularly good at keeping this website up-to-date, but you should be able to find information on how to contact me.
-    I love learning and building new stuff and work with other people as nothing really interesting is ever built alone :) When I am not in front of my laptop ,you'll find me playing football or reading books.I love to read and always have.Fiction being my most favourite genre,I also recently started writing blogs on some of my most treasured books on Medium.I also used to love dogs until I discovered cats because the smallest feline is a masterpiece. `,
+    I love learning and building new stuff and work with other people as nothing really interesting is ever built alone :) When I am not in front of my laptop ,you'll find me playing football or reading books.I love to read and always have.Fiction being my most favourite genre,I also recently started writing blogs on some of my most treasured books on Medium ,the link of which you can see somewhere on the screen. I also used to love dogs until I discovered cats because the smallest feline is a masterpiece. `,
     author: `kushal-kothari`,
     github: `https://github.com/Kushal-kothari`,
     linkedin: `https://www.linkedin.com/in/kushal-kothari-766155171/`,
@@ -23,16 +23,16 @@ module.exports = {
         link: 'https://github.com/Kushal-kothari/Pathfinder_visualizer',
       },
       {
-        name: 'Pivalink',
+        name: 'Yggdrasil Plugin',
         description:
-          'Tool to create microlanding pages that can be easily updated and customized to fit any brand (Acquired)',
-        link: 'https://pivalink.com/',
+          'Yggdrasil is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.',
+        link: 'https://gitlab.com/barrel-db/lab/erlang-yggdrasil',
       },
       {
-        name: 'Coursefacts',
+        name: 'Data Structures and Algorithm',
         description:
-          'A platform where students can read and write university / college course reviews anonymously',
-        link: 'https://coursefacts.com/',
+          'A curated list and explaination of every data structure and algorithm to understand and/or practice algorithms. ',
+        link: 'https://github.com/Kushal-kothari/Data-Structures-and-Algorithms',
       },
       {
         name: 'Blog App in Django',
@@ -85,11 +85,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'C++, Python, Java,JavaScript (ES6+), Erlang ',
+          'C++, Python,Django, Java,JavaScript, Erlang ',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: ' MySQL, MongoDB, PostreSQL,',
       },
       {
         name: 'Other',
