@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
 
-import profileImg from '../../images/pool.jpg';
+import profileImg from '../../images/profile.jpg';
 
 const classes = {
   width: '50px', 
