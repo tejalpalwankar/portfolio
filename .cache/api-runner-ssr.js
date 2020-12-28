@@ -1,9 +1,9 @@
 var plugins = [{
+      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-186061894-1","head":true,"anonymize":true,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
+    },{
       plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
-    },{
-      plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"G-XKB1PRKH9H","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
       plugin: require('/home/kushal/Desktop/Portfolio/netlify/Kushal-kothari.github.io/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[]},
