@@ -2,10 +2,9 @@ import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
 
-import profileImg from '../../images/profile.jpg';
+import profileImg from '../../images/kushal_pool.jpg';
 
 const classes = {
-  width: '50px', 
   wrapper: 'block mb-6 md:flex',
   imageWrapper: 'w-full max-w-150',
   image: 'rounded-full transform transition-all duration-150 hover:scale-105',
