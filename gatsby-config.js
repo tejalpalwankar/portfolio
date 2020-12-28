@@ -40,12 +40,7 @@ module.exports = {
           'A reusable Django app for managing news/blog entries in different languages.Comes with a django-cms apphook and has been prepared using Django 1.5.1 and django-cms 2.4.1. From version 2.0 onwards it is tested and developed further on Django 1.9 and django-cms 3.',
         link: 'https://github.com/Kushal-kothari/BLOGGING-APP',
       },
-      {
-        name: 'Dev Portfolio',
-        description:
-          'An open source and customizable single-page personal portfolio template for developers',
-        link: 'https://github.com/RyanFitzgerald/devportfolio',
-      },
+
     ],
     experience: [
       {
@@ -85,7 +80,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'C++, Python,Django, Java,JavaScript, Erlang ',
+          'C++, Python, Django, Java, JavaScript, Erlang ',
       },
       {
         name: 'Databases',
