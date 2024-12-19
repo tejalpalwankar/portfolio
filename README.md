@@ -1,2 +1,2 @@
 # Devfolio
-# Kushal-kothari-portfolio
+# Tejal palwankar portfolio
